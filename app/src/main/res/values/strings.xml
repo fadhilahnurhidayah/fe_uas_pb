@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WarungSekre</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transaksi">Transaksi</string>
+    <string name="title_laporan">Laporan</string>
+    <string name="title_keranjang">Keranjang</string>
+    <string name="title_produk">Dashboard</string>
+    <string name="error_username_empty">Username cannot be empty</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="registration_not_available">Registration feature is not available yet</string>
+    <string name="app_logo">Application Logo</string>
+    <string name="forgot_password">Lupa sandi?</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="no_account_text">Belum punya akun?</string>
+    <string name="register_text">Daftar</string>
+    <string name="welcome_back">Selamat datang kembali!</string>
+    <string name="register">Daftar</string>
+</resources>

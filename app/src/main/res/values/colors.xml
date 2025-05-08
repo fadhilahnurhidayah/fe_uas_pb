@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_variant">#0F2557</color>
+    <color name="primary_light">#3B82F6</color>
+
+    <color name="secondary">#475569</color>
+    <color name="secondary_variant">#334155</color>
+    <color name="secondary_light">#64748B</color>
+
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1E293B</color>
+
+    <color name="accent">#0284C7</color>
+
+    <color name="success">#047857</color>
+    <color name="warning">#B45309</color>
+    <color name="error">#B91C1C</color>
+    <color name="info">#0369A1</color>
+
+    <color name="currency_positive">#059669</color>
+    <color name="currency_negative">#DC2626</color>
+
+    <color name="light_gray">#E2E8F0</color>
+    <color name="medium_gray">#94A3B8</color>
+    <color name="dark_gray">#475569</color>
+    <color name="black">#0F172A</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="purple_200">@color/primary_light</color>
+    <color name="purple_500">@color/primary</color>
+    <color name="purple_700">@color/primary_variant</color>
+    <color name="teal_200">@color/accent</color>
+    <color name="teal_700">@color/secondary_variant</color>
+    <color name="colorPrimary">@color/primary</color>
+</resources>

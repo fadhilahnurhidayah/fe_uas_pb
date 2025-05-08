@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246113636281",
+    "project_id": "uaspmob-1a5a4",
+    "storage_bucket": "uaspmob-1a5a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246113636281:android:b6a49235c496b2e7ceb068",
+        "android_client_info": {
+          "package_name": "com.example.uaspmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dOJhfCizqBev-9_QzMsn_hFz_2H7MkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
